@@ -49,20 +49,20 @@ A modern and fully responsive SaaS Landing Page developed using HTML5 and CSS3. 
 
 ![Full Page](SC/6s.png)
 
-## 📂 Project Structure
+## 📂 Footer
 
 ```text
 SidraSoft-SaaS-Landing-Page/
 │
 ├── index.html
 ├── style.css
-├── screenshots/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   ├── screenshot3.png
-│   ├── screenshot4.png
-│   ├── screenshot5.png
-│   └── screenshot6.png
+├── sc/
+│   ├── 1s.png
+│   ├── 2s.png
+│   ├── 3s.png
+│   ├── 4s.png
+│   ├── 5s.png
+│   └── 6s.png
 └── README.md
 ```
 
