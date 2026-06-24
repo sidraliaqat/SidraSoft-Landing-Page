@@ -81,8 +81,6 @@ This project was built to practice:
 
 **Sidra Liaqat**
 
-Computer Science Student | Frontend Developer | Software Developer
+## 📄 Link
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
+https://sidraliaqat.github.io/SidraSoft-Landing-Page/
